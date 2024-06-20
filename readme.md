@@ -154,3 +154,8 @@ J’ai fais le choix de créer un model **“Caractéristique”** dans le model
   disponibilité: string;
 }
 ```
+
+### Optimisation
+
+Pour optimisé ce projet j'aurais pu ajouter une pagination dans les requetes pour ne pas redescendre toutes les données. 
+Actuellement ça ne pose pas de problème car j'ai ajouté 5 marques et 5 Flipper mais au long thermes il y aura beaucoup de données et ce sera intéréssant d'ajouter la pagination
